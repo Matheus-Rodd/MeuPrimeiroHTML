@@ -1,0 +1,58 @@
+body {
+    background-color:rgb(3, 91, 241)
+  }
+  <!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color: lightblue;
+}
+
+h1 {
+color:aliceblue;
+text-align: center;
+}
+
+p {
+font-family: verdana;
+font-size: 20px;
+
+}
+
+h2 {
+  color:aliceblue;
+  text-align: center;
+}
+
+h3 {
+  color:aliceblue
+}
+
+h4 {
+  color:aliceblue 
+
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+a{
+    color:aliceblue
+}
+
+.jogadores{
+    display: flex;
+    gap: 40px;
+    margin: 40px 0 0 440px;
+
+}
+
+.nbalogo{
+    display: flex;
+    gap: 40px;
+    margin: -150px 0 0 1475px;
+
+}
